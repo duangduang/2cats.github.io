@@ -1,1 +1,1 @@
-sbl ~/github/blog/pelicanconf.py
+vi ~/github/blog/pelicanconf.py
