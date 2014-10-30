@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://2cats.github.io/index.html</loc>
-<lastmod>2014-10-07T01:35:56-00:00</lastmod>
+<lastmod>2014-10-30T15:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://2cats.github.io/archives.html</loc>
-<lastmod>2014-10-07T01:35:56-00:00</lastmod>
+<lastmod>2014-10-30T15:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://2cats.github.io/tags.html</loc>
-<lastmod>2014-10-07T01:35:56-00:00</lastmod>
+<lastmod>2014-10-30T15:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://2cats.github.io/categories.html</loc>
-<lastmod>2014-10-07T01:35:56-00:00</lastmod>
+<lastmod>2014-10-30T15:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://2cats.github.io/djacjvajvxdjav.html</loc>
+<lastmod>2010-12-05T19:30:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 

@@ -1,1 +1,1 @@
-sudo pelican -s ../blog/pelicanconf.py
+pelican -s ../blog/pelicanconf.py
